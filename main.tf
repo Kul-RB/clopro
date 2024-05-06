@@ -20,11 +20,11 @@ resource "yandex_vpc_subnet" "private"{
 }
 
 resource "yandex_vpc_route_table" "route_table" {
-  name = "rt"
+  name = var.name_rt
   network_id = yandex_vpc_network.netology-vpc.id
 
   static_route {
-    destination_prefix = "0.0.0.0/0"
+    destination_prefix = var.dest_prefix
     next_hop_address   = var.ip_nat
   }
 }
