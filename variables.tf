@@ -53,18 +53,6 @@ variable "subnet_private" {
   description = "subnet name"
 }
 
-variable "name_egw" {
-  type        = string
-  default     = "egress-gateway"
-  description = "gateway name"
-}
-
-variable "dest_prefix" {
-  type        = string
-  default     = "0.0.0.0/0"
-  description = "Destination prefix"
-}
-
 variable "name_instance" {
   type        = string
   default     = "nat"
@@ -141,4 +129,16 @@ variable "name_vm_private" {
   type        = string
   default     = "private"
   description = "Name VM with IP public"
+}
+
+variable "name_rt" {
+  type        = string
+  default     = "rt"
+  description = "Name route table"
+}
+
+variable "dest_prefix" {
+  type        = string
+  default     = "0.0.0.0/0"
+  description = "Destination prefix"
 }
