@@ -48,3 +48,25 @@
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/7da50035-0bd9-4b0f-81ac-46bf7b9440d7)
 
+4. ![image](https://github.com/Kul-RB/clopro/assets/53901269/58b26897-51ca-4c4e-a88e-c3128b5d54a2)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/9de25129-f317-4f5c-82e3-d4232013d0eb)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/c8463748-26cc-4184-b553-ececf501c9df)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/6b595ad1-9bb6-4d48-afd9-588de0740b65)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/a9cf82bd-c5e0-44e5-b82a-946e484e3ac8)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/6352aba5-1609-4b78-bbad-5de59138107f)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/faaf3405-ad8c-40b4-8b20-d978dcf41b82)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/88caf1ef-ee02-4d4c-adb3-d0a0a007d809)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/345bac55-0b24-4541-aced-eb94c5f96c3d)
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/d3d3a0e6-a5fa-4376-88c8-451fc08c6966)
+
+
+
