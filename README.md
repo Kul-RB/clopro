@@ -19,7 +19,7 @@
 4. (дополнительно)* Создать Application Load Balancer с использованием Instance group и проверкой состояния.
 
 # Решение
-1. 
+## Создать бакет Object Storage и разместить в нём файл с картинкой
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/673e5188-5dec-43d5-b310-733e4ed3ab72)
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/68d0598e-3724-4597-b376-971818e0d619)
@@ -28,7 +28,7 @@
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/ce90ae19-352d-49f1-91d7-bc70d0234987)
 
-2. 
+## Создать группу ВМ в public подсети фиксированного размера с шаблоном LAMP и веб-страницей, содержащей ссылку на картинку из бакета
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/11a2ec1d-cc50-4a34-9788-d9fd3e052fc1)
 
@@ -40,7 +40,9 @@
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/b43d93ed-1fa7-41eb-959f-f35cb1b3d008)
 
-3. ![image](https://github.com/Kul-RB/clopro/assets/53901269/5a091f89-64a2-47e9-b088-22578b68078c)
+## Подключить группу к сетевому балансировщику
+
+![image](https://github.com/Kul-RB/clopro/assets/53901269/5a091f89-64a2-47e9-b088-22578b68078c)
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/84610f8c-f317-4ef5-ae03-9a80eaf93981)
 
@@ -48,7 +50,8 @@
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/7da50035-0bd9-4b0f-81ac-46bf7b9440d7)
 
-4. ![image](https://github.com/Kul-RB/clopro/assets/53901269/58b26897-51ca-4c4e-a88e-c3128b5d54a2)
+## Создать Application Load Balancer с использованием Instance group и проверкой состояния
+![image](https://github.com/Kul-RB/clopro/assets/53901269/58b26897-51ca-4c4e-a88e-c3128b5d54a2)
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/9de25129-f317-4f5c-82e3-d4232013d0eb)
 
@@ -66,7 +69,8 @@
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/345bac55-0b24-4541-aced-eb94c5f96c3d)
 
-![image](https://github.com/Kul-RB/clopro/assets/53901269/d3d3a0e6-a5fa-4376-88c8-451fc08c6966)
+![image](https://github.com/Kul-RB/clopro/assets/53901269/378f51c5-4f23-4dfe-af95-fead0a1d72a1)
+
 
 
 
