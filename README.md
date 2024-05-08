@@ -51,6 +51,11 @@
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/7da50035-0bd9-4b0f-81ac-46bf7b9440d7)
 
 ## Создать Application Load Balancer с использованием Instance group и проверкой состояния
+Ссылка на git
+``
+https://github.com/Kul-RB/clopro/tree/hw2.1
+``
+
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/58b26897-51ca-4c4e-a88e-c3128b5d54a2)
 
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/9de25129-f317-4f5c-82e3-d4232013d0eb)
