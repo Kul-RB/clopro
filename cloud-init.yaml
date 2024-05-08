@@ -1,0 +1,12 @@
+#cloud-config
+write_files:
+ - path: /var/www/html/index.html
+   content: |
+    <html>
+     <head>
+       <title>Netology</title>
+     </head>
+     <body>
+         <a href="https://storage.yandexcloud.net/kulebyakinr-08052024/shishkin.jpg">Picture</a>
+     </body>
+    </html> 
