@@ -15,5 +15,5 @@
 ![image](https://github.com/Kul-RB/clopro/assets/53901269/0d235dda-f2e3-4f9c-b99d-456a5aefb4fd)
 
 
-# Задание
+
 
